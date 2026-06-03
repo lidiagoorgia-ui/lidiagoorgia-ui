@@ -1,4 +1,4 @@
-# [✨Lidia Schwarz✨] (https://www.linkedin.com/in/lidia-schwarz/)
+# [✨Lidia Schwarz✨](https://www.linkedin.com/in/lidia-schwarz/)
 
 ## Core Values: 
 
