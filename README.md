@@ -1,7 +1,7 @@
 # [✨Lidia Schwarz✨](https://www.linkedin.com/in/lidia-schwarz/)
 
 ## Core Values: 
-
+integrity - humor - honesty
 ## Just for Fun: 
 [MAI Closet](https://maicloset.lovable.app)
 
