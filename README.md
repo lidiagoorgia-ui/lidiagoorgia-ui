@@ -13,4 +13,3 @@ integrity - humor - honesty
 - 🧠 I also advise at **[n-aible](https://n-aible.com)** — an AI-powered EdTech platform — as a Strategic Innovation Advisor
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/lidia-schwarz) 
 - 🌍 Based in **San Francisco, CA** | Originally from Italy 🇮🇹
-- ⚡ Fun fact: I can switch between Italian and English mid-sentence and make it look effortless — my brain runs on espresso and spreadsheets
