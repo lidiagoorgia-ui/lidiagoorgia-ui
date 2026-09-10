@@ -1,6 +1,7 @@
 # [✨Lidia Schwarz✨](https://www.linkedin.com/in/lidia-schwarz/)
  🌍 Based in **San Francisco, CA** | Originally from Italy 🇮🇹
-- Community builder and AI operator based in San Francisco. I build programs for founders, and the AI tools that make them run.
+
+Community builder and AI operator based in San Francisco. I build programs for founders, and the AI tools that make them run.
 
 ## Just for Fun: 
 [MAI Closet](https://maicloset.lovable.app)
